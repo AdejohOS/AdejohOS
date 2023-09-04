@@ -63,10 +63,10 @@ I love the community and also like to share knowledge.
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adejohos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adejohos" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adejohos&show_icons=true&locale=en&layout=compact" alt="adejohos" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adejohos&show_icons=true&locale=en&hide=prs&theme=tokyonight" alt="adejohos" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adejohos&show_icons=true&locale=en&hide=prs" alt="adejohos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adejohos&theme=tokyonight" alt="adejohos" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adejohos&" alt="adejohos" /></p>
 
 </details>
