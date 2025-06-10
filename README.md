@@ -18,7 +18,7 @@ Building things is something i enjoy and derive pleasure from, if am not coding 
 
 ### What I currently Do
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently working at @OslaSystems
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: talk@adejoh.dev.
