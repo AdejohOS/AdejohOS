@@ -37,7 +37,7 @@ Building things is something i enjoy and derive pleasure from, if am not coding 
 <br />
 
 #### Business
-- :paperclip: [My Resume/CV](https://github.com/AdejohOS/AdejohOS/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/AdejohOS/AdejohOS/blob/main/Sunday%20Adejoh%20CV.pdf)
 - :email: talk@adejoh.dev
 
 
