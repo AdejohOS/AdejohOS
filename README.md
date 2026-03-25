@@ -32,7 +32,7 @@
 
 ### 📫 Contact
 
-- Email: talk@adejoh.dev  
+- Email: hello@adejoh.dev  
 - Portfolio: https://www.adejoh.dev  
 
 ---
