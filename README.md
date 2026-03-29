@@ -1,6 +1,6 @@
 ## Hi, I'm Adejoh 👋
 
-🚀 Frontend Engineer (React / Next.js) building fast, modern web applications that help businesses grow.
+🚀 Fullstack Developer building fast, scalable web applications with React, Next.js, Node.js, and Django.
 
 👉 Portfolio: https://www.adejoh.dev  
 
